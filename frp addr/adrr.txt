@@ -1,0 +1,4 @@
+  linear_start_addr: 0xa040000
+  physical_start_addr: 0xa040000
+  partition_size: 0x100000
+  reserve: 0x00
